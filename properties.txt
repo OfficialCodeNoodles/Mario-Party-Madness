@@ -1,0 +1,13 @@
+# Variables that refer to the top screen of the DS
+mainScreenScale=3.75
+mainScreenXpos=0
+mainScreenYpos=182
+mainScreenWidth=960
+mainScreenHeight=720
+
+# Variables that refer to the bottom screen of the DS
+subScreenScale=3.75
+subScreenXpos=960
+subScreenYpos=182
+subScreenWidth=960
+subScreenHeight=720
